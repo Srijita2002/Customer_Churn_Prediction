@@ -28,7 +28,6 @@ The dataset used for training and evaluation contains customer information, incl
 
 📡 Service Usage: Internet, phone usage, complaints, support interactions.
 
-You can use any publicly available churn dataset or your proprietary data.
 
 
 ## Results 📊
@@ -49,5 +48,5 @@ The performance of the models is evaluated based on classification metrics. A de
 Feel free to contribute by creating issues or submitting pull requests. Any enhancements, bug fixes, or new features are welcome!
 
 ## Contact 📧
-For any queries, contact Srijita at your.email@example.com.
+For any queries, contact Srijita at .srijitamajumder1208@gmail.com.
 
