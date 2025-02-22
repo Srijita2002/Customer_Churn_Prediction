@@ -5,10 +5,15 @@ Customer churn prediction is a crucial task for businesses to identify customers
 
 ## Features 🚀
 📌 Data Preprocessing & Feature Engineering: Handling missing values, encoding categorical variables, and scaling features.
+
 📊 Exploratory Data Analysis (EDA): Visualizing trends, correlations, and distributions in customer data.
+
 🤖 Model Training: Implementation of Decision Tree and Random Forest models for predicting customer churn.
+
 📈 Performance Evaluation: Assessing models using metrics like Accuracy, Precision, Recall, and F1-score.
+
 🔧 Hyperparameter Tuning: Optimizing models for improved performance.
+
 📊 Model Interpretability: Analyzing feature importance and decision rules.
 
 
