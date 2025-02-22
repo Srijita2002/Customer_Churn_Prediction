@@ -1,10 +1,10 @@
-📊 Customer Churn Prediction
+#📊 Customer Churn Prediction
 
-📌 Overview
+##📌 Overview
 
 Customer churn prediction is a crucial task for businesses to identify customers who are likely to leave and take preventive actions. This project utilizes machine learning models like Decision Tree and Random Forest to predict customer churn based on historical data. The goal is to help businesses retain customers by providing insights into factors influencing churn and enabling proactive engagement strategies.
 
-🚀 Features
+##🚀 Features
 
 📌 Data Preprocessing & Feature Engineering: Handling missing values, encoding categorical variables, and scaling features.
 
