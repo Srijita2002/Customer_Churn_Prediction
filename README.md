@@ -48,5 +48,5 @@ The performance of the models is evaluated based on classification metrics. A de
 Feel free to contribute by creating issues or submitting pull requests. Any enhancements, bug fixes, or new features are welcome!
 
 ## Contact 📧
-For any queries, contact Srijita at .srijitamajumder1208@gmail.com.
+For any queries, contact Srijita at majumdersrijita2002@gmail.com.
 
