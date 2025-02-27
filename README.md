@@ -31,32 +31,22 @@ Customers in the telecom industry can choose from a variety of service providers
 
 📊 Model Interpretability: Analyzing feature importance and decision rules.
 
-## Few glimpses of EDA 📊
-### 1. Churn distribution: 
+## Few glimpses of EDA 📊 
 ![Untitled design (1)](https://github.com/user-attachments/assets/8f287577-f612-4634-a9ec-28864bdeddc2)
+ 1. Churn distribution:26.6 % of customers switched to another firm.
+ 2. There is negligible difference in customer percentage who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider.
+ 3. About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customrs with One Year Contract and 3% with Two Year Contract.
+ 4. Major customers who moved out were having Electronic Check as Payment Method. Customers who opted for Credit-Card automatic transfer or Bank Automatic Transfer and Mailed Check as Payment Method were less likely to move out.
+ 5. Several customers choose the Fiber optic service and it's also evident that the customers who use Fiber optic have high churn rate, this might suggest a dissatisfaction with this type of internet service. Customers having DSL service are majority in number and have less churn rate compared to Fibre optic service.
+ 6. Most customers churn due to lack of online security.
+ 7. Most of the senior citizens churn; the number of senior citizens are very less in over all customer base.
+ 8. Customers with higher Monthly Charges are also more likely to churn. New customers are more likely to churn.
 
-
-
-
-
-
-## Results 📊
-The performance of the models is evaluated based on classification metrics. A detailed report of model performance, including accuracy, confusion matrix, and feature importance, is generated after training.
-
-🔮 Future Enhancements
-
-🚀 Additional Models: Implement XGBoost, Neural Networks, and ensemble methods.
-
-🌐 Deployment: Serve the model using Flask, FastAPI, or Streamlit.
-
- Dashboard: Develop an interactive dashboard for real-time predictions and insights.
-
-📡 Automated Feature Engineering: Enhance preprocessing with feature selection techniques.
-
-
-## Contributing 📊
-Feel free to contribute by creating issues or submitting pull requests. Any enhancements, bug fixes, or new features are welcome!
+## Final Model: Voting Classifier
+We have selected Gradient boosting, Logistic Regression, and Adaboost for our Voting Classifier.
+![Screenshot (98)](https://github.com/user-attachments/assets/97992670-828d-43a2-9270-718ddf41ff4c)
+From the confusion matrix we can see that: There are total 1383+166=1549 actual non-churn values and the algorithm predicts 1400 of them as non churn and 149 of them as churn. While there are 280+280=561 actual churn values and the algorithm predicts 280 of them as non churn values and 281 of them as churn values.
 
 ## Contact 📧
-For any queries, contact Srijita at majumdersrijita2002@gmail.com.
+If you have any feedback, please reach out at majumdersrijita2002@gmail.com.
 
