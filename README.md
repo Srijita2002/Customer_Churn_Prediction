@@ -17,7 +17,7 @@ Customers in the telecom industry can choose from a variety of service providers
 * Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
 * Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 * Demographic info about customers – gender, age range, and if they have partners and dependents
-* 
+ 
 ## Features 🚀
 📌 Data Preprocessing & Feature Engineering: Handling missing values, encoding categorical variables, and scaling features.
 
@@ -32,7 +32,7 @@ Customers in the telecom industry can choose from a variety of service providers
 📊 Model Interpretability: Analyzing feature importance and decision rules.
 
 ## Few glimpses of EDA 📊 
-![Untitled design (1)](https://github.com/user-attachments/assets/8f287577-f612-4634-a9ec-28864bdeddc2)
+![eda](https://github.com/user-attachments/assets/ecfaf2e5-99ff-488b-8f31-bd2fe01c7de6)
  1. Churn distribution:26.6 % of customers switched to another firm.
  2. There is negligible difference in customer percentage who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider.
  3. About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customrs with One Year Contract and 3% with Two Year Contract.
